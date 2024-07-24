@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="15.0.0 -dynamic -bundle -fexceptions -lstdc++">
+      <target file="libcirce-checksum.jnilib" lastModified="18e94d6399e">
+      </target>
+   </processor>
+</history>
